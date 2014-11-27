@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - itirod@localhost" uuid="8aa88573-84c4-4cba-9d90-78b939e20ace">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>itirod.*</schema-pattern>
+      <default-schemas>itirod.*</default-schemas>
+    </data-source>
+  </component>
+</project>

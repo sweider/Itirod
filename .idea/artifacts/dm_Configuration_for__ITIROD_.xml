@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="dm.config" name="dm Configuration for 'ITIROD'">
+    <output-path>$PROJECT_DIR$/out/artifacts/dm_Configuration_for__ITIROD_</output-path>
+    <root id="root">
+      <element id="packaging-for-dm-config" module="ITIROD" />
+    </root>
+  </artifact>
+</component>
